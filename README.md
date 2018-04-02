@@ -1,2 +1,1 @@
-# projects
-Projects for prospective employees
+# Projects for prospective employees
